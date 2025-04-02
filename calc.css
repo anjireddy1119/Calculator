@@ -1,0 +1,22 @@
+.icons
+{
+    width:  25%;
+    height: 200px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 5px;
+
+    
+}
+.output
+{
+    min-height: 30px;
+    border: 1px solid black;
+    width: 25%;
+    margin-bottom: 5px;
+    overflow-wrap: break-word;
+}
+button
+{
+    cursor: pointer;
+}
